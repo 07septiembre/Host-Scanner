@@ -13,13 +13,13 @@ Este script busca host de subdominios, para Internet gratis con http injector et
 # bash Host-Scanner.sh
 
 # Ejemplo de uso.
-╔────── ¤ ¤ ──────╗
-  Ingresa tu URL
-╚────── ¤ ¤ ──────╝
+#╔────── ¤ ¤ ──────╗
+#  Ingresa tu URL
+#╚────── ¤ ¤ ──────╝
  # www.movistar.com
-╔────── ¤ ¤ ──────╗
- Ingresa un puerto
-╚────── ¤ ¤ ──────╝
+#╔────── ¤ ¤ ──────╗
+# Ingresa un puerto
+#╚────── ¤ ¤ ──────╝
  # 443
 
 Esto es un ejemplo.
